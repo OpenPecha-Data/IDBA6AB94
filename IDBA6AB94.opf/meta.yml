@@ -1,0 +1,16 @@
+id: IDBA6AB94
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 15:06:47.453874
+last_modified: 2023-02-09 15:06:47.453993
+source_metadata:
+  title: 'MSV 1,07: Cīvaravastu'
+  language: sa
+bases:
+  7D22:
+    base_file: 7D22.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
